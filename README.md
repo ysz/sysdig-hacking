@@ -3,6 +3,7 @@
 time took `make -j 16` t3.2xlarge is 20m , z1d.2xlarge is 15m
 
 TODO: create ec2 instance
+
 TODO: add build playbook
 
 ```
